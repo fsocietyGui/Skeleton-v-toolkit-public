@@ -1,0 +1,222 @@
+{
+  "tool": "Skeleton V",
+  "version": "2.0.0",
+  "generated_at": "2026-09-22T14:24:41.607821+00:00",
+  "data": {
+    "username": "Nikita",
+    "results": [
+      {
+        "site": "GitHub",
+        "status": 200,
+        "url": "https://github.com/Nikita",
+        "found": true
+      },
+      {
+        "site": "GitLab",
+        "status": 200,
+        "url": "https://gitlab.com/Nikita",
+        "found": true
+      },
+      {
+        "site": "Reddit",
+        "status": 200,
+        "url": "https://www.reddit.com/user/Nikita/",
+        "found": true
+      },
+      {
+        "site": "X",
+        "status": 200,
+        "url": "https://x.com/Nikita",
+        "found": true
+      },
+      {
+        "site": "Twitch",
+        "status": 200,
+        "url": "https://www.twitch.tv/Nikita",
+        "found": true
+      },
+      {
+        "site": "PyPI",
+        "status": 200,
+        "url": "https://pypi.org/user/Nikita/",
+        "found": true
+      },
+      {
+        "site": "Keybase",
+        "status": 200,
+        "url": "https://keybase.io/Nikita",
+        "found": true
+      },
+      {
+        "site": "Medium",
+        "status": 403,
+        "url": "https://medium.com/@Nikita",
+        "found": null
+      },
+      {
+        "site": "Dev.to",
+        "status": 200,
+        "url": "https://dev.to/nikita",
+        "found": true
+      },
+      {
+        "site": "CodePen",
+        "status": 403,
+        "url": "https://codepen.io/Nikita",
+        "found": null
+      },
+      {
+        "site": "Replit",
+        "status": 200,
+        "url": "https://replit.com/login?source=root-profile&goto=%2F%40Nikita",
+        "found": true
+      },
+      {
+        "site": "Docker Hub",
+        "status": 200,
+        "url": "https://hub.docker.com/u/nikita",
+        "found": true
+      },
+      {
+        "site": "HackerOne",
+        "status": 200,
+        "url": "https://hackerone.com/nikita",
+        "found": true
+      },
+      {
+        "site": "Bugcrowd",
+        "status": 200,
+        "url": "https://bugcrowd.com/h/Nikita",
+        "found": true
+      },
+      {
+        "site": "Lichess",
+        "status": 200,
+        "url": "https://lichess.org/@/Nikita",
+        "found": true
+      },
+      {
+        "site": "Chess.com",
+        "status": 200,
+        "url": "https://www.chess.com/member/Nikita",
+        "found": true
+      },
+      {
+        "site": "SoundCloud",
+        "status": 200,
+        "url": "https://soundcloud.com/Nikita",
+        "found": true
+      },
+      {
+        "site": "Patreon",
+        "status": 200,
+        "url": "https://www.patreon.com/profile/creators?u=329729",
+        "found": true
+      },
+      {
+        "site": "Steam",
+        "status": 429,
+        "url": "https://steamcommunity.com/id/Nikita",
+        "found": null
+      }
+    ],
+    "found": [
+      {
+        "site": "GitHub",
+        "status": 200,
+        "url": "https://github.com/Nikita",
+        "found": true
+      },
+      {
+        "site": "GitLab",
+        "status": 200,
+        "url": "https://gitlab.com/Nikita",
+        "found": true
+      },
+      {
+        "site": "Reddit",
+        "status": 200,
+        "url": "https://www.reddit.com/user/Nikita/",
+        "found": true
+      },
+      {
+        "site": "X",
+        "status": 200,
+        "url": "https://x.com/Nikita",
+        "found": true
+      },
+      {
+        "site": "Twitch",
+        "status": 200,
+        "url": "https://www.twitch.tv/Nikita",
+        "found": true
+      },
+      {
+        "site": "PyPI",
+        "status": 200,
+        "url": "https://pypi.org/user/Nikita/",
+        "found": true
+      },
+      {
+        "site": "Keybase",
+        "status": 200,
+        "url": "https://keybase.io/Nikita",
+        "found": true
+      },
+      {
+        "site": "Dev.to",
+        "status": 200,
+        "url": "https://dev.to/nikita",
+        "found": true
+      },
+      {
+        "site": "Replit",
+        "status": 200,
+        "url": "https://replit.com/login?source=root-profile&goto=%2F%40Nikita",
+        "found": true
+      },
+      {
+        "site": "Docker Hub",
+        "status": 200,
+        "url": "https://hub.docker.com/u/nikita",
+        "found": true
+      },
+      {
+        "site": "HackerOne",
+        "status": 200,
+        "url": "https://hackerone.com/nikita",
+        "found": true
+      },
+      {
+        "site": "Bugcrowd",
+        "status": 200,
+        "url": "https://bugcrowd.com/h/Nikita",
+        "found": true
+      },
+      {
+        "site": "Lichess",
+        "status": 200,
+        "url": "https://lichess.org/@/Nikita",
+        "found": true
+      },
+      {
+        "site": "Chess.com",
+        "status": 200,
+        "url": "https://www.chess.com/member/Nikita",
+        "found": true
+      },
+      {
+        "site": "SoundCloud",
+        "status": 200,
+        "url": "https://soundcloud.com/Nikita",
+        "found": true
+      },
+      {
+        "site": "Patreon",
+        "status": 200,
+        "url": "https://www.patreon.com/profile/creators?u=329729",
+        "found": true
+      }
+    ]
+  }
+}

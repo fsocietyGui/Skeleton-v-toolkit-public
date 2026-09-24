@@ -1,0 +1,150 @@
+{
+  "tool": "Skeleton V",
+  "version": "2.0.0",
+  "generated_at": "2026-09-22T12:53:23.234880+00:00",
+  "data": {
+    "username": "12312312312313123132123132",
+    "results": [
+      {
+        "site": "GitHub",
+        "status": 404,
+        "url": "https://github.com/12312312312313123132123132",
+        "found": false
+      },
+      {
+        "site": "GitLab",
+        "status": 403,
+        "url": "https://gitlab.com/12312312312313123132123132",
+        "found": null
+      },
+      {
+        "site": "Reddit",
+        "status": 200,
+        "url": "https://www.reddit.com/user/12312312312313123132123132/",
+        "found": true
+      },
+      {
+        "site": "X",
+        "status": 404,
+        "url": "https://x.com/12312312312313123132123132",
+        "found": false
+      },
+      {
+        "site": "Twitch",
+        "status": 200,
+        "url": "https://www.twitch.tv/12312312312313123132123132",
+        "found": true
+      },
+      {
+        "site": "PyPI",
+        "status": 200,
+        "url": "https://pypi.org/user/12312312312313123132123132/",
+        "found": true
+      },
+      {
+        "site": "Keybase",
+        "status": 404,
+        "url": "https://keybase.io/12312312312313123132123132",
+        "found": false
+      },
+      {
+        "site": "Medium",
+        "status": 403,
+        "url": "https://medium.com/@12312312312313123132123132",
+        "found": null
+      },
+      {
+        "site": "Dev.to",
+        "status": 404,
+        "url": "https://dev.to/12312312312313123132123132",
+        "found": false
+      },
+      {
+        "site": "CodePen",
+        "status": 403,
+        "url": "https://codepen.io/12312312312313123132123132",
+        "found": null
+      },
+      {
+        "site": "Replit",
+        "status": 404,
+        "url": "https://replit.com/@12312312312313123132123132",
+        "found": false
+      },
+      {
+        "site": "Docker Hub",
+        "status": 404,
+        "url": "https://hub.docker.com/u/12312312312313123132123132",
+        "found": false
+      },
+      {
+        "site": "HackerOne",
+        "status": 404,
+        "url": "https://hackerone.com/12312312312313123132123132",
+        "found": false
+      },
+      {
+        "site": "Bugcrowd",
+        "status": 404,
+        "url": "https://bugcrowd.com/12312312312313123132123132",
+        "found": false
+      },
+      {
+        "site": "Lichess",
+        "status": 404,
+        "url": "https://lichess.org/@/12312312312313123132123132",
+        "found": false
+      },
+      {
+        "site": "Chess.com",
+        "status": 404,
+        "url": "https://www.chess.com/member/12312312312313123132123132",
+        "found": false
+      },
+      {
+        "site": "SoundCloud",
+        "status": 404,
+        "url": "https://soundcloud.com/12312312312313123132123132",
+        "found": false
+      },
+      {
+        "site": "Patreon",
+        "status": 404,
+        "url": "https://www.patreon.com/12312312312313123132123132",
+        "found": false
+      },
+      {
+        "site": "Steam",
+        "status": 200,
+        "url": "https://steamcommunity.com/id/12312312312313123132123132",
+        "found": true
+      }
+    ],
+    "found": [
+      {
+        "site": "Reddit",
+        "status": 200,
+        "url": "https://www.reddit.com/user/12312312312313123132123132/",
+        "found": true
+      },
+      {
+        "site": "Twitch",
+        "status": 200,
+        "url": "https://www.twitch.tv/12312312312313123132123132",
+        "found": true
+      },
+      {
+        "site": "PyPI",
+        "status": 200,
+        "url": "https://pypi.org/user/12312312312313123132123132/",
+        "found": true
+      },
+      {
+        "site": "Steam",
+        "status": 200,
+        "url": "https://steamcommunity.com/id/12312312312313123132123132",
+        "found": true
+      }
+    ]
+  }
+}

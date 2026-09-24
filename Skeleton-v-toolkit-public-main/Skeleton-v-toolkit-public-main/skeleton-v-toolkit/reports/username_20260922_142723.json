@@ -1,0 +1,150 @@
+{
+  "tool": "Skeleton V",
+  "version": "2.0.0",
+  "generated_at": "2026-09-22T14:27:23.096567+00:00",
+  "data": {
+    "username": "dom3er",
+    "results": [
+      {
+        "site": "GitHub",
+        "status": 404,
+        "url": "https://github.com/dom3er",
+        "found": false
+      },
+      {
+        "site": "GitLab",
+        "status": 403,
+        "url": "https://gitlab.com/dom3er",
+        "found": null
+      },
+      {
+        "site": "Reddit",
+        "status": 200,
+        "url": "https://www.reddit.com/user/dom3er/",
+        "found": true
+      },
+      {
+        "site": "X",
+        "status": 200,
+        "url": "https://x.com/dom3er",
+        "found": true
+      },
+      {
+        "site": "Twitch",
+        "status": 200,
+        "url": "https://www.twitch.tv/dom3er",
+        "found": true
+      },
+      {
+        "site": "PyPI",
+        "status": 200,
+        "url": "https://pypi.org/user/dom3er/",
+        "found": true
+      },
+      {
+        "site": "Keybase",
+        "status": 404,
+        "url": "https://keybase.io/dom3er",
+        "found": false
+      },
+      {
+        "site": "Medium",
+        "status": 403,
+        "url": "https://medium.com/@dom3er",
+        "found": null
+      },
+      {
+        "site": "Dev.to",
+        "status": 404,
+        "url": "https://dev.to/dom3er",
+        "found": false
+      },
+      {
+        "site": "CodePen",
+        "status": 403,
+        "url": "https://codepen.io/dom3er",
+        "found": null
+      },
+      {
+        "site": "Replit",
+        "status": 404,
+        "url": "https://replit.com/@dom3er",
+        "found": false
+      },
+      {
+        "site": "Docker Hub",
+        "status": 404,
+        "url": "https://hub.docker.com/u/dom3er",
+        "found": false
+      },
+      {
+        "site": "HackerOne",
+        "status": 404,
+        "url": "https://hackerone.com/dom3er",
+        "found": false
+      },
+      {
+        "site": "Bugcrowd",
+        "status": 404,
+        "url": "https://bugcrowd.com/dom3er",
+        "found": false
+      },
+      {
+        "site": "Chess.com",
+        "status": 404,
+        "url": "https://www.chess.com/member/dom3er",
+        "found": false
+      },
+      {
+        "site": "SoundCloud",
+        "status": 404,
+        "url": "https://soundcloud.com/dom3er",
+        "found": false
+      },
+      {
+        "site": "Patreon",
+        "status": 404,
+        "url": "https://www.patreon.com/dom3er",
+        "found": false
+      },
+      {
+        "site": "Steam",
+        "status": 200,
+        "url": "https://steamcommunity.com/id/dom3er",
+        "found": true
+      }
+    ],
+    "found": [
+      {
+        "site": "Reddit",
+        "status": 200,
+        "url": "https://www.reddit.com/user/dom3er/",
+        "found": true
+      },
+      {
+        "site": "X",
+        "status": 200,
+        "url": "https://x.com/dom3er",
+        "found": true
+      },
+      {
+        "site": "Twitch",
+        "status": 200,
+        "url": "https://www.twitch.tv/dom3er",
+        "found": true
+      },
+      {
+        "site": "PyPI",
+        "status": 200,
+        "url": "https://pypi.org/user/dom3er/",
+        "found": true
+      },
+      {
+        "site": "Steam",
+        "status": 200,
+        "url": "https://steamcommunity.com/id/dom3er",
+        "found": true
+      }
+    ]
+  }
+}

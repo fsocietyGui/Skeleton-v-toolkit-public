@@ -1,0 +1,150 @@
+{
+  "tool": "Skeleton V",
+  "version": "2.0.0",
+  "generated_at": "2026-09-22T14:17:45.024165+00:00",
+  "data": {
+    "username": "gsadome",
+    "results": [
+      {
+        "site": "GitHub",
+        "status": 404,
+        "url": "https://github.com/gsadome",
+        "found": false
+      },
+      {
+        "site": "GitLab",
+        "status": 403,
+        "url": "https://gitlab.com/gsadome",
+        "found": null
+      },
+      {
+        "site": "Reddit",
+        "status": 200,
+        "url": "https://www.reddit.com/user/gsadome/",
+        "found": true
+      },
+      {
+        "site": "X",
+        "status": 404,
+        "url": "https://x.com/gsadome",
+        "found": false
+      },
+      {
+        "site": "Twitch",
+        "status": 200,
+        "url": "https://www.twitch.tv/gsadome",
+        "found": true
+      },
+      {
+        "site": "PyPI",
+        "status": 200,
+        "url": "https://pypi.org/user/gsadome/",
+        "found": true
+      },
+      {
+        "site": "Keybase",
+        "status": 404,
+        "url": "https://keybase.io/gsadome",
+        "found": false
+      },
+      {
+        "site": "Medium",
+        "status": 403,
+        "url": "https://medium.com/@gsadome",
+        "found": null
+      },
+      {
+        "site": "Dev.to",
+        "status": 404,
+        "url": "https://dev.to/gsadome",
+        "found": false
+      },
+      {
+        "site": "CodePen",
+        "status": 403,
+        "url": "https://codepen.io/gsadome",
+        "found": null
+      },
+      {
+        "site": "Replit",
+        "status": 404,
+        "url": "https://replit.com/@gsadome",
+        "found": false
+      },
+      {
+        "site": "Docker Hub",
+        "status": 404,
+        "url": "https://hub.docker.com/u/gsadome",
+        "found": false
+      },
+      {
+        "site": "HackerOne",
+        "status": 404,
+        "url": "https://hackerone.com/gsadome",
+        "found": false
+      },
+      {
+        "site": "Bugcrowd",
+        "status": 404,
+        "url": "https://bugcrowd.com/gsadome",
+        "found": false
+      },
+      {
+        "site": "Lichess",
+        "status": 404,
+        "url": "https://lichess.org/@/gsadome",
+        "found": false
+      },
+      {
+        "site": "Chess.com",
+        "status": 404,
+        "url": "https://www.chess.com/member/gsadome",
+        "found": false
+      },
+      {
+        "site": "SoundCloud",
+        "status": 404,
+        "url": "https://soundcloud.com/gsadome",
+        "found": false
+      },
+      {
+        "site": "Patreon",
+        "status": 404,
+        "url": "https://www.patreon.com/gsadome",
+        "found": false
+      },
+      {
+        "site": "Steam",
+        "status": 200,
+        "url": "https://steamcommunity.com/id/gsadome",
+        "found": true
+      }
+    ],
+    "found": [
+      {
+        "site": "Reddit",
+        "status": 200,
+        "url": "https://www.reddit.com/user/gsadome/",
+        "found": true
+      },
+      {
+        "site": "Twitch",
+        "status": 200,
+        "url": "https://www.twitch.tv/gsadome",
+        "found": true
+      },
+      {
+        "site": "PyPI",
+        "status": 200,
+        "url": "https://pypi.org/user/gsadome/",
+        "found": true
+      },
+      {
+        "site": "Steam",
+        "status": 200,
+        "url": "https://steamcommunity.com/id/gsadome",
+        "found": true
+      }
+    ]
+  }
+}
